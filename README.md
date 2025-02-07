@@ -24,9 +24,14 @@
 </p>
 
 ## 🔥 Projects
-- 📝 **[HiveReels](https://github.com/Himanshu-Rathi/HiveReels)** - A decentralized blogging platform on Hive Blockchain
-- 🌐 **[Cloud Notebook](https://github.com/Himanshu-Rathi/CloudNotebook)** - A React, Node.js, and MongoDB-based note-taking web app
-- 🎭 **[Decentralized Content Curation](https://github.com/Himanshu-Rathi/DecentralizedContentCuration)** - Rewarding users for content with Hive tokens
+
+- 📝 **[Cloud Notebook](https://github.com/h-rathi/SherNotebook)** - A cloud-based note-taking app developed using the MERN stack.
+- 🌐 **[NewsPoint](https://github.com/h-rathi/NewsPoint)** - A news website that fetches real-time updates using the News API, built with React.js.
+- ✍️ **[Text-Editor](https://github.com/h-rathi/Text-Editor)** - A simple text editing website built using React.js.
+- 🏗 **[CODEC 2.0](https://github.com/h-rathi/PSO-based-proactive-routing-mechanism)** - A PSO-based reactive routing mechanism to collect data from IoT devices over a wireless ad-hoc network.
+- ⚡ **[Synergy](https://github.com/h-rathi/Synergy)** - An IoT-based DC Smart Meter with a Java-based user interface, connected via ESP32 and powered by a Spring Boot server.
+- 🔋 **[IoT-Based DC Smart Meter]** - Developed a prototype capable of measuring current, voltage, power usage, and battery charge levels, integrating sensors with Arduino IDE.
+- 💱 **[Currency Converter](https://github.com/h-rathi/Currency-Convertor)** - A currency converter for all countries using HTML, CSS, JavaScript, and API integration.
 
 ## 📌 Leadership & Volunteering
 - 🏅 **NSS Coordinator** at **NIIT University** - Organizing social welfare events and awareness campaigns
