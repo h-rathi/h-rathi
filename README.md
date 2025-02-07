@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Rathi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Rathi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H-Rathi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H-Rathi&theme=radical" />
 </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=h-rathi&theme=radical&no-bg=true&no-frame=true" /> </p>
