@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-Rathi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-Rathi&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-rathi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-rathi&theme=radical" />
 </p>
 
 ---
