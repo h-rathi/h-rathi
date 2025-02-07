@@ -34,7 +34,7 @@
 - 🌿 **Sustainability & Anti-Litter Club Coordinator** - Advocating for a cleaner and greener campus
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-rathi-22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-rathi-070124176/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://himanshurathi22.wixsite.com/my-digital-portfolio)
 
 ## 📊 GitHub Stats
