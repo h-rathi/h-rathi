@@ -56,5 +56,7 @@
 </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=h-rathi&theme=radical&no-bg=true&no-frame=true" /> </p>
+
+
 ---
 _"Striving for innovation and impact in technology!"_ 🚀
