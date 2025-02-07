@@ -3,11 +3,11 @@
 </div>
 
 # 👋 Hi, I'm Himanshu Rathi!
-### 🚀 Full Stack Developer | Blockchain Enthusiast | Open Source Contributor
+### 🚀 Full Stack Developer | NIIT University | B.Tech CSE 
 
 ### 🏫 About Me
 - 🎓 B.Tech in Computer Science at **NIIT University**
-- 🌱 Passionate about **Web Development, Blockchain, and Decentralized Applications**
+- 🌱 Passionate about **Web Development and Problem Solving**
 - 🤝 Open to **collaborations** and **exciting projects**
 - 🛠️ Always learning and exploring new technologies
 
@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-FF4500?style=for-the-badge&logo=hive&logoColor=white" />
 </p>
 
 ## 🔥 Projects
