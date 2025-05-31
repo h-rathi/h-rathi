@@ -3,11 +3,11 @@
 </div>
 
 # 👋 Hi, I'm Himanshu Rathi!
-### 🚀 Full Stack Developer | NIIT University | B.Tech CSE 
+### 🚀 Full Stack Developer | ML | NIIT University | B.Tech CSE 
 
 ### 🏫 About Me
 - 🎓 B.Tech in Computer Science at **NIIT University**
-- 🌱 Passionate about **Web Development and Problem Solving**
+- 🌱 Passionate about **Web Development and Machine Learning**
 - 🤝 Open to **collaborations** and **exciting projects**
 - 🛠️ Always learning and exploring new technologies
 
